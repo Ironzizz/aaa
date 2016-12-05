@@ -28,7 +28,7 @@
         "transparent":false,
         "depthTest":true,
         "shading":"phong",
-        "DbgName":"Material.003",
+        "DbgName":"Material.003_color_emissive",
         "visible":true
     },{
         "wireframe":false,
